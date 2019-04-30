@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mantarraya</string>
+    <string name="none">none</string>
+    <string name="Repartidor">Repartidor</string>
+    <string name="nombre">Nombre:</string>
+    <string name="autofillRepart">Usuario</string>
+    <string name="numCed">Numero de cedula:</string>
+    <string name="tipoTrans">Tipo de transporte:</string>
+    <string name="color">Color:</string>
+    <string name="placa">Placa:</string>
+    <string name="unirse">Unirse</string>
+</resources>
